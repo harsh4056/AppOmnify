@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "654512266986",
+    "firebase_url": "https://appomnify.firebaseio.com",
+    "project_id": "appomnify",
+    "storage_bucket": "appomnify.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654512266986:android:9243d1a2d3868ca4",
+        "android_client_info": {
+          "package_name": "com.task.omnify.appomnify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "654512266986-vkbhtnktn52aenjst11tsp9f8c8rsone.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.task.omnify.appomnify",
+            "certificate_hash": "0574960c4beb9651d420b55add2711a6169dc196"
+          }
+        },
+        {
+          "client_id": "654512266986-e3lg842hn6n393ah7qsf0nll6m5qfbs0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGckpnDwDBlB_gQfNg35Pm3NSoJ47yA_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "654512266986-e3lg842hn6n393ah7qsf0nll6m5qfbs0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
